@@ -1,0 +1,25 @@
+{
+  "name": "face_boot_cf",
+  "version": "1.0.0",
+  "description": "a simple facebook bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardogpg/face_boot_cf.git"
+  },
+  "author": "Eduardo Ismael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardogpg/face_boot_cf/issues"
+  },
+  "homepage": "https://github.com/eduardogpg/face_boot_cf#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.74.0"
+  }
+}
